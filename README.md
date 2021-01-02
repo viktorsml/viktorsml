@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 * ☁ Docker | Linux
 
 ## 📫 Get in touch
-- Website - [victorsamuel.com](https://www.victorsamuel.com)
+- Website - [victorsamuel.com](https://victorsamuel.com)
 - LinkedIn - [Victor Samuel](https://go.victorsamuel.com/linkedin)
 - Twitter - [@viktorsml](https://go.victorsamuel.com/twitter)
 - Instagram - [@viktorsml](https://go.victorsamuel.com/instagram)
