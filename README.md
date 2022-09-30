@@ -22,7 +22,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 - Website - [victorsamuel.com](https://victorsamuel.com)
-- Twitter - [@viktorsml](https://viktors.ml/twitter)
-- LinkedIn - [Victor Samuel](https://viktors.ml/linkedin)
+- Twitter - [@viktorsml](https://viktorsml.dev/twitter)
+- LinkedIn - [Victor Samuel](https://viktorsml.dev/linkedin)
 
- or send a classic 📧 to [hola@victorsamuel.com](https://viktors.ml/send-email)
+ or send a classic 📧 to [hola@victorsamuel.com](https://viktorsml.dev/send-email)
